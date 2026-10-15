@@ -1,0 +1,18 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "name": "Pasta",
+      "time": "20 min",
+      "difficulty": "Easy",
+      "image": "https://example.com/pasta.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Pizza",
+      "time": "30 min",
+      "difficulty": "Medium",
+      "image": "https://example.com/pizza.jpg"
+    }
+  ]
+}
